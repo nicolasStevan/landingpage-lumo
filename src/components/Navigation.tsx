@@ -40,7 +40,7 @@ export function Navigation() {
                 alt="Lumo Logo" 
                 className="w-10 h-10 hover:scale-105 transition-transform"
               />
-              <span className="text-xl font-bold gradient-text">Lumo</span>
+              <span className="text-xl font-bold gradient-text">Lumo Ia Solutions</span>
             </div>
           </div>
 
@@ -86,7 +86,7 @@ export function Navigation() {
                       alt="Lumo Logo" 
                       className="w-10 h-10"
                     />
-                    <span className="text-xl font-bold gradient-text">Lumo</span>
+                    <span className="text-xl font-bold gradient-text">Lumo Ia Solutions</span>
                   </div>
                   
                   {navigationItems.map((item) => (

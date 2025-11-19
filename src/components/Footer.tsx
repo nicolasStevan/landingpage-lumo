@@ -53,7 +53,7 @@ export function Footer() {
                 alt="Lumo Logo" 
                 className="w-10 h-10"
               />
-              <h3 className="text-2xl font-bold gradient-text">Lumo</h3>
+              <h3 className="text-2xl font-bold gradient-text">Lumo Ia Solutions</h3>
             </div>
             <p className="text-muted-foreground">
               Transformamos negócios através de soluções inteligentes e personalizadas 
@@ -143,7 +143,7 @@ export function Footer() {
 
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-sm text-muted-foreground">
-            © {currentYear} Lumo - Agência de Soluções Criativas com IA. Todos os direitos reservados.
+            © {currentYear} Lumo Ia Solutions - Agência de Soluções Criativas com IA. Todos os direitos reservados.
           </div>
           <div className="flex items-center gap-6 mt-4 md:mt-0 text-sm">
             <a href="#" className="text-muted-foreground hover:text-purple-400 transition-colors">
